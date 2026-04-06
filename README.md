@@ -193,9 +193,7 @@ subscan_domain.com_2025-04-06_14-00/
 - ✅ Color-coded status codes in live table
 - ✅ Status code breakdown in summary
 - ✅ All results saved to timestamped output folder
-
 ---
-
 ## 🗺️ Roadmap
 
 - [ ] Amass integration for deeper passive recon
@@ -203,24 +201,15 @@ subscan_domain.com_2025-04-06_14-00/
 - [ ] Screenshot capture with gowitness
 - [ ] API key config for subfinder (Shodan, VirusTotal, Censys)
 - [ ] Telegram/Slack notification on complete
-
 ---
-
 ## ⚖️ Legal Disclaimer
-
 > For authorized security testing and educational purposes only.  
 > Only scan domains you own or have **explicit written permission** to test.  
 > The author assumes no liability for misuse.
-
 ---
-
 ## 👤 Author
-
 **Waheed Mohamed** — Senior Network Security Engineer  
-[GitHub](https://github.com/waheedmohmaed) | [Fastportscan](https://github.com/waheedmohmaed/Fastportscan)
-
----
+[GitHub](https://github.com/waheedmohmaed) 
 
 ## 📄 License
-
 MIT License — see [LICENSE](LICENSE) for details.
